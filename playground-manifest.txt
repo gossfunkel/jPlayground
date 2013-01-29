@@ -1,0 +1,13 @@
+Name: uk/co/gossfunkel/playground/client
+Specification-Title: Gossfunkel's Playground Client
+Specification-Version: 1.0
+Implementation-Title: uk.co.gossfunkel.playground.client
+Main-Class: client.Client
+Sealed: true
+
+Name: uk/co/gossfunkel/playground/server
+Specification-Title: Gossfunkel's Playground Server
+Specification-Version: 1.0
+Implementation-Title: uk.co.gossfunkel.playground.server
+Main-Class: server.ServerPlay
+Sealed: true

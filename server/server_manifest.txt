@@ -1,0 +1,5 @@
+Name: uk/co/gossfunkel/playground/server
+Specification-Title: Gossfunkel's Playground Server
+Specification-Version: 1.0
+Implementation-Title: uk.co.gossfunkel.playground.server
+Main-Class: server.ServerPlay
